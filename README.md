@@ -31,3 +31,5 @@ This is a  **binary classification problem** where we have information about a s
     **d) DecisionTreeClassifier**
     
 Here we go!
+
+[See the code](https://github.com/thecodemancer/Prediction-Model-for-Loan-applications/blob/49c8c3ca3cc73a31d51925c019847c08ab2da64f/Prediction_Model_for_Loan_applications.ipynb)
