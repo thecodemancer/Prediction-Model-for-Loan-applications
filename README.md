@@ -1,4 +1,4 @@
-# Prediction Model for Loan applications
+# Prediction Model for Loan Applications
 
 <img src="https://github.com/thecodemancer/Prediction-Model-for-Loan-applications/blob/eb790cbbb97890309e42dbe1546d4a65153921b3/images/loan_application.jpg" />
 
